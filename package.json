@@ -1,0 +1,18 @@
+{
+  "name": "tooltipexample",
+  "version": "1.0.0",
+  "description": "tooltip js",
+  "main": "index.js",
+  "alias": {
+    "~": "src",
+    "~core": "src/core"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "kamenskii <kamenskii@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@kamenskii/tooltip": "^1.0.6"
+  }
+}

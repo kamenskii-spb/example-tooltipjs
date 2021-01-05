@@ -1,0 +1,34 @@
+body{
+	overflow: hidden;
+}
+
+.container{
+	max-width: 500px
+}
+
+header{
+	margin-bottom: 50px;
+	border-bottom: 1px solid #ccc
+}
+
+.config{
+	margin-bottom: 50px;
+}
+
+#example{
+width: 250px;
+
+}
+
+.toltip{
+	border: 1px solid #ccc;
+	padding: 5px;
+
+}
+.material-icons{
+	font-size: 1em
+}
+
+
+
+/*# sourceMappingURL=/main.af46ece4.css.map */
